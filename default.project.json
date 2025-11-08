@@ -1,0 +1,12 @@
+{
+  "name": "LunarEngine",
+  "tree": {
+    "$className": "DataModel",
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "$path": "src"
+      }
+    }
+  }
+}
